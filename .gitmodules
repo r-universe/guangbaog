@@ -1,5 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "COR"]
+	path = COR
+	url = https://github.com/cran/COR
+[submodule "DLPCA"]
+	path = DLPCA
+	url = https://github.com/cran/DLPCA
+[submodule "ISR"]
+	path = ISR
+	url = https://github.com/cran/ISR
+[submodule "LIC"]
+	path = LIC
+	url = https://github.com/cran/LIC
+[submodule "ORKM"]
+	path = ORKM
+	url = https://github.com/cran/ORKM
+[submodule "SOPC"]
+	path = SOPC
+	url = https://github.com/cran/SOPC
