@@ -23,3 +23,6 @@
 [submodule "SOPC"]
 	path = SOPC
 	url = https://github.com/cran/SOPC
+[submodule "pql"]
+	path = pql
+	url = https://github.com/cran/pql
