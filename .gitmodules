@@ -25,7 +25,7 @@
 	url = https://github.com/cran/ORKM
 [submodule "PPCDT"]
 	path = PPCDT
-	url = https://github.com/cran/PPCDT
+	url = https://github.com/guangbaog/ppcdt
 [submodule "SOPC"]
 	path = SOPC
 	url = https://github.com/cran/SOPC
