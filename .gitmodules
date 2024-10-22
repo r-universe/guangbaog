@@ -31,7 +31,7 @@
 	url = https://github.com/cran/SOPC
 [submodule "TLIC"]
 	path = TLIC
-	url = https://github.com/cran/TLIC
+	url = https://github.com/guangbaog/tlic
 [submodule "pql"]
 	path = pql
 	url = https://github.com/cran/pql
