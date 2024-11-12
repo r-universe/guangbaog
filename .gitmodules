@@ -37,4 +37,4 @@
 	url = https://github.com/guangbaog/tlic
 [submodule "pql"]
 	path = pql
-	url = https://github.com/cran/pql
+	url = https://github.com/guangbaog/pql
