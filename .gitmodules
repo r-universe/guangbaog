@@ -35,6 +35,9 @@
 [submodule "SOPC"]
 	path = SOPC
 	url = https://github.com/cran/SOPC
+[submodule "TFM"]
+	path = TFM
+	url = https://github.com/cran/TFM
 [submodule "TLIC"]
 	path = TLIC
 	url = https://github.com/guangbaog/tlic
