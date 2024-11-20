@@ -20,6 +20,9 @@
 [submodule "ISR"]
 	path = ISR
 	url = https://github.com/cran/ISR
+[submodule "LFM"]
+	path = LFM
+	url = https://github.com/cran/LFM
 [submodule "LIC"]
 	path = LIC
 	url = https://github.com/cran/LIC
