@@ -22,7 +22,7 @@
 	url = https://github.com/cran/ISR
 [submodule "LFM"]
 	path = LFM
-	url = https://github.com/cran/LFM
+	url = https://github.com/guangbaog/lfm
 [submodule "LIC"]
 	path = LIC
 	url = https://github.com/cran/LIC
