@@ -5,6 +5,9 @@
 [submodule "COR"]
 	path = COR
 	url = https://github.com/cran/COR
+[submodule "DIRMR"]
+	path = DIRMR
+	url = https://github.com/cran/DIRMR
 [submodule "DLEGFM"]
 	path = DLEGFM
 	url = https://github.com/cran/DLEGFM
