@@ -29,6 +29,9 @@
 [submodule "LIC"]
 	path = LIC
 	url = https://github.com/cran/LIC
+[submodule "LLIC"]
+	path = LLIC
+	url = https://github.com/cran/LLIC
 [submodule "ORKM"]
 	path = ORKM
 	url = https://github.com/cran/ORKM
