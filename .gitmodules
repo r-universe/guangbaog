@@ -31,7 +31,7 @@
 	url = https://github.com/cran/LIC
 [submodule "LLIC"]
 	path = LLIC
-	url = https://github.com/cran/LLIC
+	url = https://github.com/guangbaog/llic
 [submodule "ORKM"]
 	path = ORKM
 	url = https://github.com/cran/ORKM
