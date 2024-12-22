@@ -40,13 +40,13 @@
 	url = https://github.com/guangbaog/ppcdt
 [submodule "SFM"]
 	path = SFM
-	url = https://github.com/cran/SFM
+	url = https://github.com/guangbaog/sfm
 [submodule "SOPC"]
 	path = SOPC
 	url = https://github.com/cran/SOPC
 [submodule "TFM"]
 	path = TFM
-	url = https://github.com/cran/TFM
+	url = https://github.com/guangbaog/tfm
 [submodule "TLIC"]
 	path = TLIC
 	url = https://github.com/guangbaog/tlic
