@@ -17,6 +17,9 @@
 [submodule "DTSR"]
 	path = DTSR
 	url = https://github.com/cran/DTSR
+[submodule "Dogoftest"]
+	path = Dogoftest
+	url = https://github.com/cran/Dogoftest
 [submodule "FPCdpca"]
 	path = FPCdpca
 	url = https://github.com/cran/FPCdpca
