@@ -17,6 +17,9 @@
 [submodule "DTSR"]
 	path = DTSR
 	url = https://github.com/cran/DTSR
+[submodule "Docovt"]
+	path = Docovt
+	url = https://github.com/cran/Docovt
 [submodule "Dogoftest"]
 	path = Dogoftest
 	url = https://github.com/cran/Dogoftest
