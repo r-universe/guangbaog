@@ -23,6 +23,9 @@
 [submodule "Dogoftest"]
 	path = Dogoftest
 	url = https://github.com/cran/Dogoftest
+[submodule "Domean"]
+	path = Domean
+	url = https://github.com/cran/Domean
 [submodule "FPCdpca"]
 	path = FPCdpca
 	url = https://github.com/cran/FPCdpca
