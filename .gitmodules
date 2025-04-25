@@ -44,6 +44,9 @@
 [submodule "LLIC"]
 	path = LLIC
 	url = https://github.com/guangbaog/llic
+[submodule "OPCreg"]
+	path = OPCreg
+	url = https://github.com/cran/OPCreg
 [submodule "ORKM"]
 	path = ORKM
 	url = https://github.com/cran/ORKM
