@@ -56,6 +56,9 @@
 [submodule "SFM"]
 	path = SFM
 	url = https://github.com/guangbaog/sfm
+[submodule "SLIC"]
+	path = SLIC
+	url = https://github.com/cran/SLIC
 [submodule "SOPC"]
 	path = SOPC
 	url = https://github.com/cran/SOPC
