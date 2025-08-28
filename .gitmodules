@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CLIC"]
+	path = CLIC
+	url = https://github.com/cran/CLIC
 [submodule "COR"]
 	path = COR
 	url = https://github.com/cran/COR
