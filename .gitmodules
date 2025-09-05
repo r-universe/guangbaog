@@ -32,6 +32,9 @@
 [submodule "Domean"]
 	path = Domean
 	url = https://github.com/cran/Domean
+[submodule "ELIC"]
+	path = ELIC
+	url = https://github.com/cran/ELIC
 [submodule "FPCdpca"]
 	path = FPCdpca
 	url = https://github.com/cran/FPCdpca
