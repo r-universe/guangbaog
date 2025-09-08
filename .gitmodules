@@ -20,9 +20,6 @@
 [submodule "DLPCA"]
 	path = DLPCA
 	url = https://github.com/cran/DLPCA
-[submodule "DTSR"]
-	path = DTSR
-	url = https://github.com/cran/DTSR
 [submodule "Docovt"]
 	path = Docovt
 	url = https://github.com/cran/Docovt
