@@ -29,6 +29,9 @@
 [submodule "Domean"]
 	path = Domean
 	url = https://github.com/cran/Domean
+[submodule "EFM"]
+	path = EFM
+	url = https://github.com/cran/EFM
 [submodule "ELIC"]
 	path = ELIC
 	url = https://github.com/cran/ELIC
