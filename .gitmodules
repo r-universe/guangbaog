@@ -41,6 +41,9 @@
 [submodule "FPCdpca"]
 	path = FPCdpca
 	url = https://github.com/cran/FPCdpca
+[submodule "GulFM"]
+	path = GulFM
+	url = https://github.com/cran/GulFM
 [submodule "ISR"]
 	path = ISR
 	url = https://github.com/cran/ISR
