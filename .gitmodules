@@ -17,6 +17,9 @@
 [submodule "DLEGFM"]
 	path = DLEGFM
 	url = https://github.com/cran/DLEGFM
+[submodule "DLFM"]
+	path = DLFM
+	url = https://github.com/cran/DLFM
 [submodule "DLMRMV"]
 	path = DLMRMV
 	url = https://github.com/cran/DLMRMV
