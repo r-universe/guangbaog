@@ -26,6 +26,9 @@
 [submodule "DLPCA"]
 	path = DLPCA
 	url = https://github.com/cran/DLPCA
+[submodule "DSFM"]
+	path = DSFM
+	url = https://github.com/cran/DSFM
 [submodule "Docovt"]
 	path = Docovt
 	url = https://github.com/cran/Docovt
