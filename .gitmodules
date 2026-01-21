@@ -71,6 +71,9 @@
 [submodule "PPCDT"]
 	path = PPCDT
 	url = https://github.com/guangbaog/ppcdt
+[submodule "SDGLM"]
+	path = SDGLM
+	url = https://github.com/cran/SDGLM
 [submodule "SFM"]
 	path = SFM
 	url = https://github.com/guangbaog/sfm
