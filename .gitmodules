@@ -11,6 +11,9 @@
 [submodule "COR"]
 	path = COR
 	url = https://github.com/cran/COR
+[submodule "CoFM"]
+	path = CoFM
+	url = https://github.com/cran/CoFM
 [submodule "DIRMR"]
 	path = DIRMR
 	url = https://github.com/cran/DIRMR
