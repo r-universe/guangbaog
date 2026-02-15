@@ -56,15 +56,9 @@
 [submodule "ISR"]
 	path = ISR
 	url = https://github.com/cran/ISR
-[submodule "LFM"]
-	path = LFM
-	url = https://github.com/guangbaog/lfm
 [submodule "LIC"]
 	path = LIC
 	url = https://github.com/cran/LIC
-[submodule "LLIC"]
-	path = LLIC
-	url = https://github.com/guangbaog/llic
 [submodule "OPCreg"]
 	path = OPCreg
 	url = https://github.com/cran/OPCreg
@@ -86,9 +80,6 @@
 [submodule "SOPC"]
 	path = SOPC
 	url = https://github.com/cran/SOPC
-[submodule "TFM"]
-	path = TFM
-	url = https://github.com/guangbaog/tfm
 [submodule "TLIC"]
 	path = TLIC
 	url = https://github.com/guangbaog/tlic
