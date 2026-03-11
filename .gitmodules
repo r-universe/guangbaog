@@ -32,6 +32,9 @@
 [submodule "DSFM"]
 	path = DSFM
 	url = https://github.com/cran/DSFM
+[submodule "DTFM"]
+	path = DTFM
+	url = https://github.com/cran/DTFM
 [submodule "Docovt"]
 	path = Docovt
 	url = https://github.com/cran/Docovt
