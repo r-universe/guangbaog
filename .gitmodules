@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BFM"]
+	path = BFM
+	url = https://github.com/cran/BFM
 [submodule "CFM"]
 	path = CFM
 	url = https://github.com/cran/CFM
