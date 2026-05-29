@@ -74,6 +74,9 @@
 [submodule "ORKM"]
 	path = ORKM
 	url = https://github.com/cran/ORKM
+[submodule "OSIRCR"]
+	path = OSIRCR
+	url = https://github.com/cran/OSIRCR
 [submodule "PPCDT"]
 	path = PPCDT
 	url = https://github.com/guangbaog/ppcdt
