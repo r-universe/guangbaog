@@ -101,6 +101,9 @@
 [submodule "TLIC"]
 	path = TLIC
 	url = https://github.com/guangbaog/tlic
+[submodule "oesir"]
+	path = oesir
+	url = https://github.com/cran/oesir
 [submodule "pql"]
 	path = pql
 	url = https://github.com/guangbaog/pql
