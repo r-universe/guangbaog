@@ -104,6 +104,9 @@
 [submodule "oesir"]
 	path = oesir
 	url = https://github.com/cran/oesir
+[submodule "osir"]
+	path = osir
+	url = https://github.com/cran/osir
 [submodule "pql"]
 	path = pql
 	url = https://github.com/guangbaog/pql
